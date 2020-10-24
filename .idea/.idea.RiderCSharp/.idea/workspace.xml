@@ -13,7 +13,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6eada91-7078-49c6-abe5-ac4f5726894a" name="Default Changelist" comment="" />
+    <list default="true" id="d6eada91-7078-49c6-abe5-ac4f5726894a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RiderCSharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RiderCSharp/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +43,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -71,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603556562396</updated>
-      <workItem from="1603556570431" duration="399000" />
+      <workItem from="1603556570431" duration="1491000" />
     </task>
     <servers />
   </component>
@@ -111,5 +114,9 @@
       <screen x="0" y="27" width="1920" height="1020" />
     </state>
     <state width="1354" height="251" key="GridCell.Tab.0.right/0.27.1920.1020@0.27.1920.1020" timestamp="1603556730606" />
+    <state x="521" y="187" width="1022" height="737" key="SettingsEditor" timestamp="1603558039488">
+      <screen x="0" y="27" width="1920" height="1020" />
+    </state>
+    <state x="521" y="187" width="1022" height="737" key="SettingsEditor/0.27.1920.1020@0.27.1920.1020" timestamp="1603558039488" />
   </component>
 </project>
